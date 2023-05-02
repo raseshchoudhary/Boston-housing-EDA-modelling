@@ -29,7 +29,7 @@ This dataset give a blow by blow account of the housing conditions in Boston, a 
 
 1.The authorities in charge of looking after the public welfare in Boston would be an apropos user. This can use such visualizations and valuable insights which can urge the authorities in charge to take appropriate action to provide better housing facilities and eventually improve on it.
 
-2. This may also be used by any person will to go into real eatate and investments, who wants to understand the present case scenario of the housing conditions in Boston.
+2.This may also be used by any person will to go into real eatate and investments, who wants to understand the present case scenario of the housing conditions in Boston.
 
 # Insights
 
@@ -43,7 +43,7 @@ This dataset give a blow by blow account of the housing conditions in Boston, a 
 
 3.Most of the crimes are committed by the population where the percentage of lower class is between 10% to 36%.
 
-4. there are some where the index of accessibility to radial highways is below 5, on the other hand there are some areas where index of accessibility to radial highways is close to 25. This indicates the regional disparity among the areas.
+4.there are some where the index of accessibility to radial highways is below 5, on the other hand there are some areas where index of accessibility to radial highways is close to 25. This indicates the regional disparity among the areas.
 
 5.Majority of suburbs have a pupil-teacher ratio between 17 and 22, with a peak around 20. There are some outliers with much higher pupil-teacher ratios, which could represent underfunded or overcrowded schools
 
@@ -58,6 +58,6 @@ This dataset give a blow by blow account of the housing conditions in Boston, a 
 
 I have also made a model to predict the median valus of owner occupied homes, by taking all the other variables in the dataset as input.
 
-#Ending note:
+# Ending note:
 
 Thanks for giving this a read. For detailed visualizations and coding you can refer to the ipynb files if you wish so.
