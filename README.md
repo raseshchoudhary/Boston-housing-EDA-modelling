@@ -69,6 +69,8 @@ This dataset give a blow by blow account of the housing conditions in Boston, a 
 
 # Multiple linear regression model.
 
+![alt text](https://i0.wp.com/conceptshacked.com/wp-content/uploads/2020/11/Regression-line-min.png?w=1800&ssl=1)
+
 I have also made a model to predict the median valus of owner occupied homes, by taking all the other variables in the dataset as input.
 
 # Ending note:
